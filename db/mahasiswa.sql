@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `prakweb_2023_a_213040007`
+-- Database: `PrakWeb_2024_D_213040042`
 --
 
 -- --------------------------------------------------------
@@ -41,7 +41,7 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`id`, `nrp`, `nama`, `email`, `jurusan`, `gambar`) VALUES
-(1, '213040007', 'Derral Pramudya', 'Derral3@gmail.com', 'Teknik Informatika', 'derral.png'),
+(1, '213040042', 'Rendi Sopian', 'Rendi99@gmail.com', 'Teknik Informatika', 'Rendi.png'),
 (3, '213040131', 'Yogi', 'yogi@gmail.com', 'Teknik Informatika', 'yogi.png'),
 (4, '213040145', 'Wildan nasrulloh', 'Wildan@gmail.com', 'Teknik Informatika', 'wildan.png'),
 (5, '213040017', 'Riyan', 'riyan@gmail.com', 'Teknik Informatika', 'riyan.png'),

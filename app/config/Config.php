@@ -1,12 +1,12 @@
 <?php
 
-define('BASEURL', 'http://localhost/prakweb2023_a_213040007_mvc/public');
+define('BASEURL', 'http://localhost/PrakWeb2024_D_213040042_mvc/public');
 
 // DB
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'prakweb2023_a_213040007_mvc');
+define('DB_NAME', 'PrakWeb2024_D_213040042_mvc');
 
 
 ?>
